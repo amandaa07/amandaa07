@@ -3,7 +3,7 @@
 With a passion for technology from an early age, I currently study programming focusing on web development. I seek to constantly learn and adapt quickly to changes in the industry.</p>&nbsp;
 
 <div>
-  <img width=48% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amandaa07&theme=radical&mode=weekly" />
+  <img width=52% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amandaa07&theme=radical&mode=weekly" />
 </div>
 
 #### Contacts:
